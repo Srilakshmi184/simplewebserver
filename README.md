@@ -96,6 +96,7 @@ httpd = HTTPServer(server_address, MyServer)
 httpd.serve_forever()
 ```
 ## OUTPUT:
+
 ![alt text](image.png)
 
 ![alt text](image-1.png)
